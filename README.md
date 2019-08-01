@@ -4,7 +4,7 @@
 
 | Board name           | Design files | Order on PCBs.io |
 | -------------------- | ------------ | ---------------- |
-| Solder board - Small | [Upverter project](https://upverter.com/design/trebuchetindustries/9df0e946b0c6e6fa/solder-board---small/), [Upverter exports](./Solder%20board%20-%20Small) | ????? |
+| Solder board - Small | [Upverter project](https://upverter.com/design/trebuchetindustries/9df0e946b0c6e6fa/solder-board---small/), [Upverter exports](./Solder%20board%20-%20Small) | <a href="https://PCBs.io/share/zeZEv"><img src="https://s3.amazonaws.com/pcbs.io/share.png" alt="Order from PCBs.io"></img></a> |
 
 ## Licence
 
